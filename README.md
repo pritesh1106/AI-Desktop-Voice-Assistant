@@ -1,4 +1,4 @@
-# Mac AI Voice Assistant with OpenAI Integration
+# AI Voice Assistant with OpenAI Integration
 
 This repository contains the source code for a voice assistant program called "Mac AI". The program is built using Python and leverages various libraries and APIs for speech recognition, natural language processing, web automation, and integration with the OpenAI API.
 
